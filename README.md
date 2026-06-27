@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.koingosw.com/products/librarianpro/img/icon512.png" width="100" alt="Librarian Pro icon"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/740caf10597615.560ea639bb737.png" width="100" alt="Librarian Pro icon"/>
 </p>
 
 <h1 align="center">Librarian Pro for Mac</h1>
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.koingosw.com/products/librarianpro/screenshots/screenshot01.jpg" alt="Librarian Pro — macOS personal library and collection management screenshot" width="780"/>
+  <img src="https://www.koingosw.com/products/librarianpro/screenshots/headshot.jpg" alt="Librarian Pro — macOS personal library and collection management screenshot" width="780"/>
 </p>
 
 ---
